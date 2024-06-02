@@ -1,6 +1,6 @@
 
 
-<p align="center">Hello! I'm ThiagoM018 ❤️ <br><br> a junior developer and technology enthusiast. Here you'll find a collection of my projects, ranging from simple scripts to applications.</p>&nbsp;
+<p align="center">Hello! I'm Thiago ❤️ <br><br> a junior developer and technology enthusiast. Here you'll find a collection of my projects, ranging from simple scripts to applications.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ThiagoM018&theme=radical&mode=weekly" />
